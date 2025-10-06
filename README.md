@@ -1,4 +1,5 @@
 # Dispositivos-Moveis-3Bim-Atv02
+# Alunos: João Pedro Guesser e Gabriel Albuquerque da Silva
 
 ## 🏦 App “Abrir Conta Bancária”
 Aplicativo desenvolvido em React Native (Expo) com o objetivo de simular a abertura de uma conta bancária, coletando informações do usuário por meio de um formulário interativo e validando os dados antes de confirmar a criação da conta.
